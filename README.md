@@ -5,7 +5,8 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 <img  align = "right" src= "GIG_GITHUB.gif" alt = "Coding" width = "450" />
-- 🌱 I’m currently learning **Nodejs + Explore Deep Learning**
+-  Currently I am Intern in ISM DHANBAD (Image based Crack-Detection)
+- 🌱 **Nodejs + Explore Deep Learning**
 
 - 💬 Ask me about **Machine Learning + DSA + C++**
 
