@@ -1,6 +1,7 @@
 <!-- Heading-->
 [![Header](ReadMe_tools/github-header-imag.png "Header")](#)
-<h1 align="center">Hi 👋, I'm VISHAL KUMAR</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A400F7&center=true&multiline=true&random=false&width=439&height=60&lines=Hey+there+!!+%F0%9F%91%8B;I'm+Vishal+and+welcome+to+my+Profile!)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Data science Engineer</h3>
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 <img  align = "right" src= "GIG_GITHUB.gif" alt = "Coding" width = "450" />
